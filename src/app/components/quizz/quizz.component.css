@@ -38,7 +38,7 @@
     margin-bottom: 20px;
 }
 
-.bnt-option{
+.btn-option{
     background-color: transparent;
     border-radius: 8px;
     border: 1px solid #18ab29;
@@ -53,11 +53,11 @@
     text-shadow: 0px 1px 0px #2f6627;
 }
 
-.bnt-option:hover{
+.btn-option:hover{
     background-color: #5cbf2a;
 }
 
-.bnt-option:active{
+.btn-option:active{
     position: relative;
     top: 1px;
 }
